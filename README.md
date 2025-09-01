@@ -1,2 +1,3 @@
 # my-first-project
 This is my first GitHub project to learn and practice basics.
+Author - Dhyan Patel
